@@ -30,6 +30,12 @@ This project demonstrates CRUD operations using a REST API and a clean frontend 
 - Body-Parser
 
 ---
+POST /tasks
+Content-Type: application/json
 
-## 📂 Project Structure
+{
+  "title": "New Task"
+}
+
+
 
